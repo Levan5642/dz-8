@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d152a975-a6a1-4fbd-8cb0-23ffa193541c" name="Changes" comment="" />
+    <list default="true" id="d152a975-a6a1-4fbd-8cb0-23ffa193541c" name="Changes" comment="dz-8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,5 +52,20 @@
       <updated>1653641803667</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dz-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz-8" />
   </component>
 </project>
